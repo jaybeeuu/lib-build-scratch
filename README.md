@@ -11,7 +11,7 @@ I looked at:
 
 The adhoc and notesy analysis is given in the MD files linked.
 
-There is no runnable code in this repo, but if you wnat to have a look at the package content for each then you can pull this down and install the dependencies. (I used pnpm because it leaves a cleaner `node_modules`.)
+There is no runnable code in this repo, but if you wnat to have a look at the package content for each then you can pull this down and install the dependencies. (I used `pnpm` because it leaves a cleaner `node_modules`.)
 
 ```sh
 pnpm install
